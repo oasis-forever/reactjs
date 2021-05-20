@@ -5,6 +5,7 @@ body {
 
 ol, ul {
   padding-left: 30px;
+  text-align: left;
 }
 
 .board-row:after {
@@ -43,6 +44,8 @@ ol, ul {
 .game {
   display: flex;
   flex-direction: row;
+  margin-top: 50px;
+  margin-left: 40%;
 }
 
 .game-info {
